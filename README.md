@@ -2,7 +2,7 @@
 # 👋 Hola, soy Juan Antonio Cuesta Losada  
 
 🚀 **Ingeniero de Software Front-end**  
-Apasionado por la **transformación digital**, **docencia universitaria** y la transparencia de datos y el desarrollo de **dashboards interactivos** que convierten información compleja en decisiones claras.  
+Apasionado por la **transformación digital**, **docencia universitaria**, la transparencia de datos y el desarrollo de **dashboards interactivos** que convierten información compleja en decisiones claras.  
 
 ---
 
